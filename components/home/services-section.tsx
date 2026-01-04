@@ -8,7 +8,7 @@ import { SectionHeading } from "@/components/section-heading"
 import { useLanguage } from "@/contexts/language-context"
 
 // Emoji mapping for each service
-const serviceEmojis = ["🦴", "🏥", "⚽", "🧠", "👴", "🪑", "🩸", "📍"]
+const serviceEmojis = ["🦴", "🏥", "⚽", "🧠", "👴", "🪑", "🩸", "📍", "👐"]
 
 export function ServicesSection() {
   const { t } = useLanguage()

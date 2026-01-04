@@ -119,6 +119,14 @@ export const translations = {
             "Restore energy balance",
           ],
         },
+        {
+          title: "Chiropractic Treatment",
+          description: [
+            "Spinal adjustment and alignment",
+            "Back and neck pain relief",
+            "Joint mobility improvement",
+          ],
+        },
       ],
     },
 
@@ -245,6 +253,7 @@ export const translations = {
         hijama: "Hijama Therapy (Wet Cupping)",
         acupuncture: "Acupuncture Therapy",
         other: "Other",
+        chiropractic: "Chiropractic Treatment",
       },
     },
 
@@ -358,6 +367,14 @@ export const translations = {
             "প্রমাণ-ভিত্তিক আকুপাংচার চিকিৎসা",
             "ব্যথা কমানো এবং স্নায়ুর কার্যকারিতা উন্নত করা",
             "শক্তির ভারসাম্য পুনরুদ্ধার করা",
+          ],
+        },
+        {
+          title: "কাইরোপ্র্যাকটিক চিকিৎসা",
+          description: [
+            "মেরুদণ্ড এবং হাড়ের বিন্যাস ঠিক করা",
+            "পিঠ ও ঘাড়ের ব্যথা নিরাময়",
+            "শরীরের নড়াচড়া ও কার্যক্ষমতা বৃদ্ধি",
           ],
         },
       ],
@@ -479,6 +496,7 @@ export const translations = {
         hijama: "হিজামা থেরাপি (ওয়েট কাপিং)",
         acupuncture: "আকুপাংচার থেরাপি",
         other: "অন্যান্য",
+        chiropractic: "কাইরোপ্র্যাকটিক চিকিৎসা",
       },
     },
 

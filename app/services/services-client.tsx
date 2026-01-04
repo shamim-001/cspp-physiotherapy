@@ -50,6 +50,11 @@ const serviceData = [
         image: "/services/Acupuncture Therapy.jpg",
         alt: "Acupuncture Therapy",
     },
+    {
+        emoji: "👐",
+        image: "/services/Chiropractic Treatment.jpg",
+        alt: "Chiropractic Treatment",
+    },
 ]
 
 export function ServicesClient() {

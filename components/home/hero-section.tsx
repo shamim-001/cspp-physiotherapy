@@ -41,11 +41,13 @@ export function HeroSection() {
             </div>
           </div>
           <div className="relative">
-            <div className="relative aspect-square overflow-hidden rounded-2xl bg-gradient-to-br from-primary/20 to-accent/20 shadow-2xl">
-              <img
-                src="/professional-physiotherapy-treatment-spine-care-me.jpg"
-                alt="Physiotherapy treatment illustration"
-                className="h-full w-full object-cover"
+            <div className="relative aspect-[9/16] max-h-[600px] mx-auto overflow-hidden rounded-2xl bg-gradient-to-br from-primary/20 to-accent/20 shadow-2xl">
+              <iframe
+                src="https://www.youtube.com/embed/tgkcSlT5MPc?autoplay=1&mute=1&loop=1&playlist=tgkcSlT5MPc&controls=0&modestbranding=1&rel=0"
+                title="Physiotherapy treatment video"
+                className="h-full w-full border-0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowFullScreen
               />
             </div>
             <div className="absolute -bottom-6 -left-6 rounded-xl bg-card p-4 shadow-lg">

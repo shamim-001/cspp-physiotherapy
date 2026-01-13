@@ -132,8 +132,8 @@ export const translations = {
 
     // Doctor Section
     doctor: {
-      title: "Meet Your Physiotherapist",
-      subtitle: "Expert care from an experienced and qualified professional",
+      title: "Meet Our Team",
+      subtitle: "Expert care from experienced and qualified professionals",
       bpaRegistration: "BPA Registration No:",
       learnMoreAbout: "Learn more about Dr. Ali",
       connectOnSocial: "Connect on Social Media",
@@ -382,8 +382,8 @@ export const translations = {
 
     // Doctor Section
     doctor: {
-      title: "আপনার ফিজিওথেরাপিস্টের সাথে পরিচিত হন",
-      subtitle: "একজন অভিজ্ঞ এবং যোগ্য পেশাদারের কাছ থেকে বিশেষজ্ঞ যত্ন",
+      title: "আমাদের টিমের সাথে পরিচিত হন",
+      subtitle: "অভিজ্ঞ এবং যোগ্য পেশাদারদের কাছ থেকে বিশেষজ্ঞ যত্ন",
       bpaRegistration: "বিপিএ নিবন্ধন নং:",
       learnMoreAbout: "ডাঃ আলী সম্পর্কে আরও জানুন",
       connectOnSocial: "সোশ্যাল মিডিয়ায় যোগাযোগ করুন",

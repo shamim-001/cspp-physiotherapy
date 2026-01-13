@@ -31,6 +31,38 @@ export const siteConfig = {
     },
   },
 
+  doctors: [
+    {
+      name: "Dr. Syed Mahamud Ali",
+      title: "PT",
+      fullName: "Dr. Syed Mahamud Ali (PT)",
+      registrationNo: "GM–1806",
+      image: "/Dr. Syed Mahamud Ali (PT).jpeg",
+      qualifications: [
+        "BPT (Bachelor of Physiotherapy), Medical Faculty, University of Dhaka",
+        "Postgraduate Diploma Exercise Physiology (BKSP)",
+        "Specialized training in orthopedic & myofascial therapy",
+        "Mechanical pain assessment and consultation specialist",
+        "Former physiotherapy consultant at American Universal Health Care Inc.",
+      ],
+      shortBio:
+        "Dr. Syed Mahamud Ali is an experienced physiotherapist with advanced training in orthopedic, neurological, and myofascial therapy. Holding academic credentials from the University of Dhaka and a Postgraduate Diploma in Exercise Physiology (BKSP), he delivers evidence-based, personalized treatment plans designed to help patients manage pain, restore function, and enhance their overall quality of life.",
+      social: {
+        linkedin: "https://www.linkedin.com/in/dr-syed-mahamud-ali-pt-4089802b3/",
+        facebook: "https://www.facebook.com/dr.syed.mahamud.ali",
+        instagram: "https://www.instagram.com/mahamudparadise?utm_source=qr&igsh=MXQ4b2oydWlucmR4MQ==",
+      },
+    },
+    {
+      name: "Mrs. Tanjila",
+      title: "Nutrition Expert",
+      fullName: "Mrs. Tanjila",
+      image: "/Mrs. Tanjila.jpeg",
+      qualifications: ["BSc in PHN", "MSc in NFS", "PGT in Clinical Nutrition & Dietetics"],
+      shortBio: "Mrs. Tanjila is a dedicated Nutrition Expert specializing in Clinical Nutrition & Dietetics.",
+    },
+  ],
+
   contact: {
     phone: "+880 1973-885093",
     phoneLink: "tel:+8801973885093",
